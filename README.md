@@ -1,6 +1,8 @@
 # Handwritten Digit Recognition with Voice Integration
 
-![Demo](![image](https://github.com/user-attachments/assets/f3df7919-e609-4210-aff5-bb8bfdbfb8a7)
+![Demo](https://github.com/user-attachments/assets/865891e0-c2ea-4879-a8a2-f313d871e48b)
+image.png)
+
 ) <!-- Link to your demo GIF or image -->
 
 ## Overview
