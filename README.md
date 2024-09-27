@@ -1,6 +1,6 @@
 # Handwritten Digit Recognition with Voice Integration
 
-![Demo](![handwritten-digit-rec1](https://github.com/user-attachments/assets/c63bdf3e-adbb-4a89-b829-21af70db6942)
+![Demo]("C:\Users\asidd\Downloads\handwritten-digit-rec1.png")
 )
 image.png)
 
